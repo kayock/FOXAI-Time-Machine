@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Hand-built SRU 1.2 response modeled directly on Gallica's documented
+     SRU endpoint (operation=searchRetrieve, version=1.2, responseSchema=dc).
+     Gallica's edge refused the shared sandbox IP during development, so this
+     fixture is docs-modeled, NOT live-captured. Field layout follows the
+     oai_dc:dc Dublin-Core records Gallica returns inside srw:record elements. -->
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/"
+                            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+                            xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <srw:numberOfRecords>312</srw:numberOfRecords>
+  <srw:records>
+    <srw:record>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <oai_dc:dc>
+          <dc:title>Les ruines de Pompéi : gravures du XIXe siècle</dc:title>
+          <dc:creator>Héliogravure &amp; Compagnie</dc:creator>
+          <dc:date>1865</dc:date>
+          <dc:description>Recueil de gravures représentant les ruines de Pompéi.</dc:description>
+          <dc:identifier>ark:/12148/bpt6k6543210</dc:identifier>
+          <dc:type>image</dc:type>
+          <dc:language>fre</dc:language>
+        </oai_dc:dc>
+      </srw:recordData>
+    </srw:record>
+    <srw:record>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <oai_dc:dc>
+          <dc:title>Journal des débats politiques et littéraires, 12 septembre 1871</dc:title>
+          <dc:date>1871-09-12</dc:date>
+          <dc:identifier>http://gallica.bnf.fr/ark:/12148/bpt6k478123z</dc:identifier>
+          <dc:type>text</dc:type>
+          <dc:language>fre</dc:language>
+        </oai_dc:dc>
+      </srw:recordData>
+    </srw:record>
+    <srw:record>
+      <srw:recordPacking>xml</srw:recordPacking>
+      <srw:recordData>
+        <oai_dc:dc>
+          <dc:title>Livre d'heures à l'usage de Rome, XVe siècle</dc:title>
+          <dc:date>1450</dc:date>
+          <dc:identifier>ark:/12148/btv1b10500001g</dc:identifier>
+          <dc:type>manuscript</dc:type>
+          <dc:language>lat</dc:language>
+        </oai_dc:dc>
+      </srw:recordData>
+    </srw:record>
+  </srw:records>
+</srw:searchRetrieveResponse>

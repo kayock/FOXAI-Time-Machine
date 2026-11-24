@@ -1,0 +1,6 @@
+{
+  "_fixture_note": "Deliberately minimal manifest missing most optional IIIF fields, to test that the adapter degrades gracefully instead of crashing.",
+  "id": "https://example-archive.org/manifests/bare-minimum/manifest.json",
+  "type": "Manifest",
+  "label": { "en": ["Bare Minimum Manifest"] }
+}

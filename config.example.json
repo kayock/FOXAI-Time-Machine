@@ -1,0 +1,10 @@
+{
+  "_comment": "Copy this file to config.local.json (which is gitignored) and fill in any keys you have. Every key is optional — sources without a configured key simply report 'available: false, reason: API key not configured' instead of crashing. Nine sources need no key at all: NASA, Library of Congress, The Metropolitan Museum of Art, Art Institute of Chicago, Cleveland Museum of Art, Victoria & Albert Museum, Wikimedia Commons, Internet Archive (curated collections) and BnF Gallica.",
+
+  "SMITHSONIAN_API_KEY": "get a free key at https://api.data.gov/signup/",
+  "DPLA_API_KEY": "request a free key: https://pro.dp.la/developers/policies#req-key",
+  "EUROPEANA_API_KEY": "get a free wskey at https://apis.europeana.eu/",
+  "NARA_API_KEY": "get a free key at https://api.data.gov/signup/",
+  "RIJKSMUSEUM_API_KEY": "get a free key at https://www.rijksmuseum.nl/en/register",
+  "HARVARD_API_KEY": "get a free key at https://harvardartmuseums.org/collections/api"
+}

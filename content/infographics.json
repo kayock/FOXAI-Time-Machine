@@ -1,0 +1,47 @@
+[
+  {
+    "_schema_note": "This is the reusable infographic authoring template (brief section 9). Every future FOXAI infographic should be one object in this array, using these same fields — don't invent a new schema per infographic. Only title/question/hook/infographicType/status are required; everything else is optional.",
+    "title": "How Far Did the Cherokee Nation Have to Walk?",
+    "question": "How long and how deadly was the Trail of Tears?",
+    "hook": "Roughly 1,000 miles, on foot, in winter — and about a quarter of those who set out did not survive.",
+    "infographicType": "migration",
+    "facts": [
+      { "label": "Approximate distance", "value": "~1,000 miles" },
+      { "label": "Years", "value": "1838–1839" },
+      { "label": "Estimated Cherokee forced to relocate", "value": "~16,000" },
+      { "label": "Estimated deaths", "value": "~4,000" }
+    ],
+    "visualSpecification": {
+      "chartType": "route-map-with-milestones",
+      "notes": "A simple route line from the Cherokee homelands (Georgia/Tennessee/Alabama/North Carolina) to Indian Territory (Oklahoma), with a small number of labeled waypoints. No invented casualty locations beyond what NPS documents."
+    },
+    "sources": [
+      { "label": "National Park Service — Trail of Tears National Historic Trail", "url": "https://www.nps.gov/trte/" },
+      { "label": "U.S. National Archives — Indian Removal Act milestone document", "url": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal" }
+    ],
+    "accessibilityDescription": "A simplified map showing a single route line from the southeastern United States to present-day Oklahoma, with four labeled statistics: distance walked, years the removal took place, the approximate number of people forced to relocate, and the approximate number who died along the way.",
+    "optionalContext": "Figures are widely-cited approximations from NPS and historical scholarship, not a precise census; different sources give slightly different totals.",
+    "status": "published"
+  },
+  {
+    "title": "How Fast Did Apollo 11 Travel?",
+    "question": "How fast was the Saturn V/Apollo 11 spacecraft moving on its way to the Moon?",
+    "hook": "Fast enough to cross the continental United States in about six minutes.",
+    "infographicType": "numbers",
+    "facts": [
+      { "label": "Peak translunar speed", "value": "~24,200 mph (~39,000 km/h)" },
+      { "label": "Distance to the Moon", "value": "~238,855 miles" },
+      { "label": "Travel time to lunar orbit", "value": "~3 days" }
+    ],
+    "visualSpecification": {
+      "chartType": "big-number-comparison",
+      "notes": "Three large numbers side by side rather than a chart — this is a 'numbers' infographic, not a timeline or map, and should render that way."
+    },
+    "sources": [
+      { "label": "NASA — Apollo 11 Mission Overview", "url": "https://www.nasa.gov/history/apollo-11-mission-overview/" }
+    ],
+    "accessibilityDescription": "Three statistics presented as large standalone numbers: peak translunar speed, total distance to the Moon, and total travel time to lunar orbit.",
+    "optionalContext": null,
+    "status": "published"
+  }
+]

@@ -1,0 +1,4503 @@
+[
+  {
+    "query": "Navajo weaving",
+    "topics": [
+      "indigenous",
+      "art"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "aic",
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Indigenous oral history interview",
+    "topics": [
+      "indigenous",
+      "oral-history"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ],
+    "media": "audio"
+  },
+  {
+    "query": "Cherokee phoenix newspaper",
+    "topics": [
+      "indigenous"
+    ],
+    "preferredSources": [
+      "loc"
+    ]
+  },
+  {
+    "query": "Mesa Verde cliff dwellings",
+    "topics": [
+      "indigenous",
+      "archaeology"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian",
+      "met"
+    ]
+  },
+  {
+    "query": "Pompeii fresco excavation",
+    "topics": [
+      "ancient",
+      "archaeology"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Rosetta Stone hieroglyphics",
+    "topics": [
+      "ancient"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "ancient Egyptian amulet",
+    "topics": [
+      "ancient",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Inca Machu Picchu photograph",
+    "topics": [
+      "ancient",
+      "exploration"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Tyrannosaurus rex fossil",
+    "topics": [
+      "paleontology"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "dpla"
+    ]
+  },
+  {
+    "query": "dinosaur excavation photograph",
+    "topics": [
+      "paleontology"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Marie Curie laboratory",
+    "topics": [
+      "science",
+      "people"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Thomas Edison phonograph",
+    "topics": [
+      "invention",
+      "science"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Wright brothers flight",
+    "topics": [
+      "invention",
+      "transportation"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Apollo mission control",
+    "topics": [
+      "space"
+    ],
+    "preferredSources": [
+      "nasa"
+    ]
+  },
+  {
+    "query": "Hubble deep field",
+    "topics": [
+      "space",
+      "science"
+    ],
+    "preferredSources": [
+      "nasa"
+    ]
+  },
+  {
+    "query": "space shuttle launch",
+    "topics": [
+      "space"
+    ],
+    "preferredSources": [
+      "nasa"
+    ],
+    "media": "video"
+  },
+  {
+    "query": "Lewis and Clark expedition map",
+    "topics": [
+      "exploration",
+      "maps"
+    ],
+    "preferredSources": [
+      "loc"
+    ]
+  },
+  {
+    "query": "Polar expedition photograph",
+    "topics": [
+      "exploration"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Hokusai woodblock print",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "medieval illuminated manuscript",
+    "topics": [
+      "art",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "Rembrandt etching",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Roman mosaic archaeology",
+    "topics": [
+      "archaeology",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "World War II propaganda poster",
+    "topics": [
+      "conflict"
+    ],
+    "preferredSources": [
+      "nara",
+      "loc"
+    ]
+  },
+  {
+    "query": "Civil War battlefield map",
+    "topics": [
+      "conflict",
+      "maps"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ]
+  },
+  {
+    "query": "Vietnam War oral history",
+    "topics": [
+      "conflict",
+      "oral-history"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ],
+    "media": "audio"
+  },
+  {
+    "query": "March on Washington 1963",
+    "topics": [
+      "civil-rights"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ]
+  },
+  {
+    "query": "civil rights sit-in photograph",
+    "topics": [
+      "civil-rights"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ]
+  },
+  {
+    "query": "suffrage parade photograph",
+    "topics": [
+      "civil-rights",
+      "people"
+    ],
+    "preferredSources": [
+      "loc"
+    ]
+  },
+  {
+    "query": "1920s street scene photograph",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "farmers market historical photograph",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "steam locomotive photograph",
+    "topics": [
+      "transportation"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "ocean liner Titanic",
+    "topics": [
+      "transportation",
+      "disasters"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "1906 San Francisco earthquake",
+    "topics": [
+      "disasters"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ]
+  },
+  {
+    "query": "Dust Bowl migrant photograph",
+    "topics": [
+      "disasters",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ]
+  },
+  {
+    "query": "Abraham Lincoln portrait",
+    "topics": [
+      "people"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ]
+  },
+  {
+    "query": "Frederick Douglass photograph",
+    "topics": [
+      "people",
+      "civil-rights"
+    ],
+    "preferredSources": [
+      "loc"
+    ]
+  },
+  {
+    "query": "Katherine Johnson NASA",
+    "topics": [
+      "people",
+      "space"
+    ],
+    "preferredSources": [
+      "nasa"
+    ]
+  },
+  {
+    "query": "circus sideshow photograph",
+    "topics": [
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "early x-ray medical photograph",
+    "topics": [
+      "unusual",
+      "science"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana",
+      "met"
+    ]
+  },
+  {
+    "query": "antique celestial map",
+    "topics": [
+      "maps",
+      "science"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Sanborn fire insurance map",
+    "topics": [
+      "maps"
+    ],
+    "preferredSources": [
+      "loc"
+    ]
+  },
+  {
+    "query": "newsreel historical footage",
+    "topics": [
+      "film"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ],
+    "media": "video"
+  },
+  {
+    "query": "early sound recording cylinder",
+    "topics": [
+      "audio",
+      "invention"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Library of Congress oral history",
+    "topics": [
+      "oral-history"
+    ],
+    "preferredSources": [
+      "loc"
+    ],
+    "media": "audio"
+  },
+  {
+    "query": "Smithsonian aviation artifact",
+    "topics": [
+      "artifact",
+      "transportation"
+    ],
+    "preferredSources": [
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "NARA presidential proclamation",
+    "topics": [
+      "documents"
+    ],
+    "preferredSources": [
+      "nara"
+    ]
+  },
+  {
+    "query": "Europeana renaissance painting",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "europeana",
+      "met",
+      "aic"
+    ]
+  },
+  {
+    "query": "DPLA vernacular photograph",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "dpla",
+      "loc"
+    ]
+  },
+  {
+    "query": "prehistoric sea monsters",
+    "topics": [
+      "paleontology",
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "weird Victorian inventions",
+    "topics": [
+      "invention",
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana",
+      "dpla"
+    ]
+  },
+  {
+    "query": "women pirates",
+    "topics": [
+      "people",
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana",
+      "dpla"
+    ]
+  },
+  {
+    "query": "ancient graffiti",
+    "topics": [
+      "ancient",
+      "archaeology"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "famous shipwrecks",
+    "topics": [
+      "disasters",
+      "exploration"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana",
+      "nara"
+    ]
+  },
+  {
+    "query": "lost cities",
+    "topics": [
+      "archaeology",
+      "exploration"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "dpla",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Native American astronomy",
+    "topics": [
+      "indigenous",
+      "science"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "loc",
+      "met",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Pueblo pottery",
+    "topics": [
+      "indigenous",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "aic",
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Aztec daily life",
+    "topics": [
+      "ancient",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian",
+      "dpla"
+    ]
+  },
+  {
+    "query": "samurai armor",
+    "topics": [
+      "artifact",
+      "art"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "medieval monsters",
+    "topics": [
+      "art",
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "witchcraft trials",
+    "topics": [
+      "documents",
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana",
+      "nara"
+    ]
+  },
+  {
+    "query": "early photography",
+    "topics": [
+      "art",
+      "invention"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc",
+      "europeana",
+      "dpla"
+    ]
+  },
+  {
+    "query": "old amusement parks",
+    "topics": [
+      "everyday-life",
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "circus history",
+    "topics": [
+      "everyday-life",
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla",
+      "met"
+    ]
+  },
+  {
+    "query": "ghost towns",
+    "topics": [
+      "everyday-life",
+      "exploration"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Colorado mining towns",
+    "topics": [
+      "everyday-life",
+      "exploration"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "historic toys",
+    "topics": [
+      "everyday-life",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian",
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "early automobiles",
+    "topics": [
+      "transportation",
+      "invention"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian",
+      "met",
+      "dpla"
+    ]
+  },
+  {
+    "query": "aviation disasters",
+    "topics": [
+      "disasters",
+      "transportation"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "famous archaeological discoveries",
+    "topics": [
+      "archaeology"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "bizarre inventions patent drawing",
+    "topics": [
+      "unusual",
+      "invention"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "failed inventions history",
+    "topics": [
+      "unusual",
+      "invention"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "strange patents nineteenth century",
+    "topics": [
+      "unusual",
+      "invention"
+    ],
+    "preferredSources": [
+      "loc"
+    ]
+  },
+  {
+    "query": "historical hoaxes photograph",
+    "topics": [
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "famous impostors portrait",
+    "topics": [
+      "unusual",
+      "people"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "unusual occupations historical photograph",
+    "topics": [
+      "unusual",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "obsolete jobs photograph",
+    "topics": [
+      "unusual",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Victorian oddities cabinet",
+    "topics": [
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "medieval marginalia manuscript",
+    "topics": [
+      "art",
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "manuscript monsters illumination",
+    "topics": [
+      "art",
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Pompeii graffiti",
+    "topics": [
+      "ancient",
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "archaeological mysteries artifact",
+    "topics": [
+      "archaeology",
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "europeana"
+    ]
+  },
+  {
+    "query": "strange museum objects curiosity",
+    "topics": [
+      "unusual",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "historical superstitions print",
+    "topics": [
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "alchemy manuscript",
+    "topics": [
+      "science",
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "astrology manuscript illumination",
+    "topics": [
+      "science",
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "fortune telling cards historical",
+    "topics": [
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "historical magic tricks apparatus",
+    "topics": [
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "met"
+    ]
+  },
+  {
+    "query": "automata mechanical curiosity",
+    "topics": [
+      "invention",
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "mechanical curiosities museum",
+    "topics": [
+      "unusual",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "cabinet of curiosities",
+    "topics": [
+      "unusual",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "freak weather events photograph",
+    "topics": [
+      "disasters",
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ]
+  },
+  {
+    "query": "abandoned settlements photograph",
+    "topics": [
+      "everyday-life",
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "unusual punishments historical print",
+    "topics": [
+      "unusual",
+      "documents"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "eccentric fashion historical",
+    "topics": [
+      "everyday-life",
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "historical pets portrait",
+    "topics": [
+      "unusual",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "aic"
+    ]
+  },
+  {
+    "query": "famous animals historical photograph",
+    "topics": [
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "dpla"
+    ]
+  },
+  {
+    "query": "dragons in art manuscript",
+    "topics": [
+      "art",
+      "unusual"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "sea monsters on maps",
+    "topics": [
+      "maps",
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "folklore monsters print",
+    "topics": [
+      "unusual",
+      "art"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "famous curses historical document",
+    "topics": [
+      "unusual"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "ancient Egyptian food offering",
+    "topics": [
+      "food",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Roman food mosaic",
+    "topics": [
+      "food",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "ancient Greek symposium pottery",
+    "topics": [
+      "food",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "medieval feast manuscript",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "Tudor banquet",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana",
+      "met"
+    ]
+  },
+  {
+    "query": "Viking food archaeology",
+    "topics": [
+      "food",
+      "archaeology"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Aztec food cacao",
+    "topics": [
+      "food",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "aic"
+    ]
+  },
+  {
+    "query": "Maya chocolate vessel",
+    "topics": [
+      "food",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Indigenous American foods",
+    "topics": [
+      "food",
+      "indigenous"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Pueblo agriculture corn",
+    "topics": [
+      "food",
+      "indigenous"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "loc",
+      "met"
+    ]
+  },
+  {
+    "query": "historical corn cultivation",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian",
+      "dpla"
+    ]
+  },
+  {
+    "query": "chocolate history Mesoamerica",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "aic"
+    ]
+  },
+  {
+    "query": "cacao ritual vessel",
+    "topics": [
+      "food",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "coffee history Ottoman",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "tea history China Japan",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "spice trade map",
+    "topics": [
+      "food",
+      "maps",
+      "exploration"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "bread history archaeology",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "historical beer brewing",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana",
+      "met"
+    ]
+  },
+  {
+    "query": "wine archaeology amphora",
+    "topics": [
+      "food",
+      "archaeology"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "ancient recipes papyrus",
+    "topics": [
+      "food",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "medieval cookbook manuscript",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "historic cookbooks",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "dpla"
+    ]
+  },
+  {
+    "query": "wartime rationing poster",
+    "topics": [
+      "food",
+      "conflict"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ]
+  },
+  {
+    "query": "Depression era cooking",
+    "topics": [
+      "food",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara",
+      "dpla"
+    ]
+  },
+  {
+    "query": "immigrant food traditions photograph",
+    "topics": [
+      "food",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "street food history photograph",
+    "topics": [
+      "food",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla",
+      "met"
+    ]
+  },
+  {
+    "query": "royal banquets historical",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "working class meals photograph",
+    "topics": [
+      "food",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "historic candy advertisement",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "ice cream history",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla",
+      "met"
+    ]
+  },
+  {
+    "query": "breakfast history photograph",
+    "topics": [
+      "food",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "old restaurant menus",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla",
+      "met"
+    ]
+  },
+  {
+    "query": "food advertisements vintage",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "kitchen technology historical",
+    "topics": [
+      "food",
+      "invention"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian",
+      "met"
+    ]
+  },
+  {
+    "query": "ancient cooking vessels",
+    "topics": [
+      "food",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "food preservation historical",
+    "topics": [
+      "food"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian",
+      "dpla"
+    ]
+  },
+  {
+    "query": "fermentation history",
+    "topics": [
+      "food",
+      "science"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "feast traditions manuscript",
+    "topics": [
+      "food",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "Christmas traditions historical",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "medieval Christmas manuscript",
+    "topics": [
+      "holidays",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Victorian Christmas illustration",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "aic"
+    ]
+  },
+  {
+    "query": "Hanukkah history lamp",
+    "topics": [
+      "holidays",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "Diwali traditions lamp",
+    "topics": [
+      "holidays",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "Eid celebrations photograph",
+    "topics": [
+      "holidays",
+      "religion"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Ramadan history manuscript",
+    "topics": [
+      "holidays",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "Lunar New Year celebration",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "Dia de los Muertos altar",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Halloween history print",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Samhain folklore",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Easter traditions icon",
+    "topics": [
+      "holidays",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Passover history Haggadah",
+    "topics": [
+      "holidays",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "Nowruz celebration",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "aic"
+    ]
+  },
+  {
+    "query": "Holi festival colors",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "Vesak Buddhist celebration",
+    "topics": [
+      "holidays",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "Obon festival lantern",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "harvest festivals historical",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "solstice celebrations ancient",
+    "topics": [
+      "holidays",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "ancient New Year festivals",
+    "topics": [
+      "holidays",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "carnival traditions mask",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "Mardi Gras parade photograph",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "religious processions historical",
+    "topics": [
+      "holidays",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "feast days illuminated calendar",
+    "topics": [
+      "holidays",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "historical calendars manuscript",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "ancient calendars stone",
+    "topics": [
+      "holidays",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "aic"
+    ]
+  },
+  {
+    "query": "festival masks museum",
+    "topics": [
+      "holidays",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "festival clothing historical",
+    "topics": [
+      "holidays"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "holiday food traditions",
+    "topics": [
+      "holidays",
+      "food"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "dpla"
+    ]
+  },
+  {
+    "query": "ancient Egyptian religion temple",
+    "topics": [
+      "religion",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Mesopotamian religion cylinder seal",
+    "topics": [
+      "religion",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Greek religion votive offering",
+    "topics": [
+      "religion",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Roman religion household shrine",
+    "topics": [
+      "religion",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Norse religion amulet",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Celtic religion artifact",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "Indigenous American spiritual traditions",
+    "topics": [
+      "religion",
+      "indigenous"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "loc"
+    ]
+  },
+  {
+    "query": "Pueblo ceremonial history",
+    "topics": [
+      "religion",
+      "indigenous"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "loc"
+    ]
+  },
+  {
+    "query": "Maya religion codex",
+    "topics": [
+      "religion",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Aztec religion sculpture",
+    "topics": [
+      "religion",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Hindu temple sculpture",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Buddhist sculpture manuscript",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Jain manuscript painting",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic"
+    ]
+  },
+  {
+    "query": "Sikh history manuscript",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "aic"
+    ]
+  },
+  {
+    "query": "Jewish history Torah scroll case",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "early Christianity catacomb",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "medieval Christianity manuscript",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Eastern Orthodox icon",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Catholic monasticism manuscript",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "Protestant Reformation print",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Islamic manuscript calligraphy",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Islamic architecture mosque tile",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Sufi traditions manuscript",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "Shinto shrine history",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "Daoist traditions painting",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic"
+    ]
+  },
+  {
+    "query": "Confucian traditions manuscript",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "Zoroastrianism fire temple",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "aic"
+    ]
+  },
+  {
+    "query": "Baha'i history photograph",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "loc",
+      "met"
+    ]
+  },
+  {
+    "query": "illuminated scripture manuscript",
+    "topics": [
+      "religion",
+      "art"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "sacred architecture photograph",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "aic"
+    ]
+  },
+  {
+    "query": "pilgrimage historical",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "monasteries historical",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "temples archaeological",
+    "topics": [
+      "religion",
+      "archaeology"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "mosques historical photograph",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "synagogues historical",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "aic"
+    ]
+  },
+  {
+    "query": "churches medieval architecture",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "shrines sacred art",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "creation stories manuscript",
+    "topics": [
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "afterlife beliefs funerary",
+    "topics": [
+      "religion",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "ritual objects museum",
+    "topics": [
+      "religion",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "burial practices archaeology",
+    "topics": [
+      "religion",
+      "archaeology"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "europeana"
+    ]
+  },
+  {
+    "query": "funerary texts Book of the Dead",
+    "topics": [
+      "religion",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "saints iconography",
+    "topics": [
+      "religion",
+      "art"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "prophets in historical art",
+    "topics": [
+      "religion",
+      "art"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "ancient childhood toys",
+    "topics": [
+      "everyday-life",
+      "ancient"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "medieval childhood manuscript",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "school life historical photograph",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "household objects museum",
+    "topics": [
+      "everyday-life",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "historical kitchens photograph",
+    "topics": [
+      "everyday-life",
+      "food"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla",
+      "met"
+    ]
+  },
+  {
+    "query": "sanitation history photograph",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "historical clothing costume",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "historical shoes footwear",
+    "topics": [
+      "everyday-life",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "historical hairstyles portrait",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "cosmetics history container",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "marriage customs historical",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "childbirth history midwifery",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "met"
+    ]
+  },
+  {
+    "query": "letters home wartime",
+    "topics": [
+      "everyday-life",
+      "documents"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ]
+  },
+  {
+    "query": "diaries historical manuscript",
+    "topics": [
+      "everyday-life",
+      "documents"
+    ],
+    "preferredSources": [
+      "loc",
+      "met"
+    ]
+  },
+  {
+    "query": "immigration stories photograph",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara",
+      "dpla"
+    ]
+  },
+  {
+    "query": "working life factory photograph",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara",
+      "dpla"
+    ]
+  },
+  {
+    "query": "marketplaces historical",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "taverns historical illustration",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "homes historical interior",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "dpla"
+    ]
+  },
+  {
+    "query": "furniture historical museum",
+    "topics": [
+      "everyday-life",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "farming historical photograph",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "fishing historical photograph",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "crafts traditional tools",
+    "topics": [
+      "everyday-life",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "historical medicine apothecary",
+    "topics": [
+      "science",
+      "medicine"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "medieval medicine manuscript",
+    "topics": [
+      "science",
+      "medicine"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "patent medicines advertisement",
+    "topics": [
+      "science",
+      "medicine"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "surgical instruments historical",
+    "topics": [
+      "science",
+      "medicine"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "aic"
+    ]
+  },
+  {
+    "query": "plague medicine history",
+    "topics": [
+      "science",
+      "medicine"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "early vaccination history",
+    "topics": [
+      "science",
+      "medicine"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara",
+      "met"
+    ]
+  },
+  {
+    "query": "anatomy books Vesalius",
+    "topics": [
+      "science",
+      "medicine"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "early microscopes",
+    "topics": [
+      "science"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "loc"
+    ]
+  },
+  {
+    "query": "historical telescopes",
+    "topics": [
+      "science"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "loc"
+    ]
+  },
+  {
+    "query": "electricity experiments historical",
+    "topics": [
+      "science"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian",
+      "met"
+    ]
+  },
+  {
+    "query": "early computing machines",
+    "topics": [
+      "science",
+      "invention"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "loc",
+      "met"
+    ]
+  },
+  {
+    "query": "mechanical calculators",
+    "topics": [
+      "science",
+      "invention"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "loc"
+    ]
+  },
+  {
+    "query": "telegraph history",
+    "topics": [
+      "science",
+      "invention"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian",
+      "nara"
+    ]
+  },
+  {
+    "query": "telephone history",
+    "topics": [
+      "science",
+      "invention"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "radio history",
+    "topics": [
+      "science",
+      "invention"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian",
+      "nara"
+    ]
+  },
+  {
+    "query": "television history",
+    "topics": [
+      "science",
+      "invention"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "rocketry history",
+    "topics": [
+      "science",
+      "space"
+    ],
+    "preferredSources": [
+      "nasa",
+      "smithsonian",
+      "loc"
+    ]
+  },
+  {
+    "query": "astronomy scientific instruments",
+    "topics": [
+      "science"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "loc"
+    ]
+  },
+  {
+    "query": "maps of the heavens celestial",
+    "topics": [
+      "science",
+      "maps"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "europeana"
+    ]
+  },
+  {
+    "query": "prehistoric mammals fossil",
+    "topics": [
+      "paleontology"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "loc"
+    ]
+  },
+  {
+    "query": "prehistoric sea reptiles",
+    "topics": [
+      "paleontology"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "loc"
+    ]
+  },
+  {
+    "query": "trilobites fossil",
+    "topics": [
+      "paleontology"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "aic"
+    ]
+  },
+  {
+    "query": "amber fossils insects",
+    "topics": [
+      "paleontology"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "aic"
+    ]
+  },
+  {
+    "query": "Ice Age animals",
+    "topics": [
+      "paleontology"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "loc"
+    ]
+  },
+  {
+    "query": "mammoths fossil",
+    "topics": [
+      "paleontology"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "loc"
+    ]
+  },
+  {
+    "query": "saber-toothed cats fossil",
+    "topics": [
+      "paleontology"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met"
+    ]
+  },
+  {
+    "query": "early humans archaeology",
+    "topics": [
+      "archaeology"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "loc"
+    ]
+  },
+  {
+    "query": "cave art Lascaux Altamira",
+    "topics": [
+      "archaeology",
+      "art"
+    ],
+    "preferredSources": [
+      "met",
+      "europeana",
+      "loc"
+    ]
+  },
+  {
+    "query": "ancient tools stone age",
+    "topics": [
+      "archaeology"
+    ],
+    "preferredSources": [
+      "met",
+      "smithsonian",
+      "aic"
+    ]
+  },
+  {
+    "query": "famous tomb discoveries",
+    "topics": [
+      "archaeology"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana"
+    ]
+  },
+  {
+    "query": "shipwreck archaeology",
+    "topics": [
+      "archaeology"
+    ],
+    "preferredSources": [
+      "met",
+      "loc",
+      "europeana",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "underwater archaeology",
+    "topics": [
+      "archaeology"
+    ],
+    "preferredSources": [
+      "loc",
+      "met",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "dinosaurs fossil museum",
+    "topics": [
+      "paleontology"
+    ],
+    "preferredSources": [
+      "smithsonian",
+      "met",
+      "aic"
+    ]
+  },
+  {
+    "query": "blues musicians historical photograph",
+    "topics": [
+      "music",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "jazz history photograph",
+    "topics": [
+      "music"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "folk music field recording",
+    "topics": [
+      "music",
+      "oral-history"
+    ],
+    "preferredSources": [
+      "loc"
+    ],
+    "media": "audio"
+  },
+  {
+    "query": "opera costume historical",
+    "topics": [
+      "music",
+      "art"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "African masks museum",
+    "topics": [
+      "art",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Oceanic art sculpture",
+    "topics": [
+      "art",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Andean textiles",
+    "topics": [
+      "art",
+      "indigenous"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Silk Road artifacts",
+    "topics": [
+      "exploration",
+      "artifact"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Transatlantic slave trade documents",
+    "topics": [
+      "documents",
+      "civil-rights"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara"
+    ]
+  },
+  {
+    "query": "Underground Railroad",
+    "topics": [
+      "civil-rights"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Japanese woodblock prints ukiyo-e",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "loc"
+    ]
+  },
+  {
+    "query": "Persian miniature painting",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "met",
+      "aic",
+      "europeana"
+    ]
+  },
+  {
+    "query": "Chinese bronze ritual vessels",
+    "topics": [
+      "ancient",
+      "artifact",
+      "religion"
+    ],
+    "preferredSources": [
+      "met",
+      "aic"
+    ]
+  },
+  {
+    "query": "African American barbershop photograph",
+    "topics": [
+      "everyday-life",
+      "civil-rights"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Colorado history photograph",
+    "topics": [
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla"
+    ]
+  },
+  {
+    "query": "Great Lakes shipwrecks",
+    "topics": [
+      "disasters"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla",
+      "smithsonian"
+    ]
+  },
+  {
+    "query": "Japanese woodblock print wave",
+    "topics": [
+      "art",
+      "japan"
+    ],
+    "preferredSources": [
+      "cma",
+      "met",
+      "vam"
+    ]
+  },
+  {
+    "query": "medieval illuminated manuscript page",
+    "topics": [
+      "medieval",
+      "art"
+    ],
+    "preferredSources": [
+      "cma",
+      "vam",
+      "loc"
+    ]
+  },
+  {
+    "query": "Impressionist landscape painting",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "cma",
+      "met",
+      "rijksmuseum"
+    ]
+  },
+  {
+    "query": "bronze armor helmet",
+    "topics": [
+      "artifact",
+      "war"
+    ],
+    "preferredSources": [
+      "cma",
+      "met"
+    ]
+  },
+  {
+    "query": "Chinese ceramic Tang dynasty",
+    "topics": [
+      "artifact",
+      "china"
+    ],
+    "preferredSources": [
+      "cma",
+      "met"
+    ]
+  },
+  {
+    "query": "Gothic cathedral sculpture",
+    "topics": [
+      "medieval",
+      "artifact"
+    ],
+    "preferredSources": [
+      "cma",
+      "vam",
+      "met"
+    ]
+  },
+  {
+    "query": "Persian manuscript painting",
+    "topics": [
+      "art",
+      "middle-east"
+    ],
+    "preferredSources": [
+      "cma",
+      "met",
+      "vam"
+    ]
+  },
+  {
+    "query": "Dutch Golden Age painting",
+    "topics": [
+      "art",
+      "netherlands"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "cma",
+      "met"
+    ]
+  },
+  {
+    "query": "still life painting flowers 17th century",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "cma",
+      "met"
+    ]
+  },
+  {
+    "query": "american impressionist painting snow",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "cma",
+      "met"
+    ]
+  },
+  {
+    "query": "Indian miniature painting Mughal",
+    "topics": [
+      "art",
+      "india"
+    ],
+    "preferredSources": [
+      "cma",
+      "vam",
+      "met"
+    ]
+  },
+  {
+    "query": "Pre-Columbian gold ornament",
+    "topics": [
+      "artifact",
+      "americas"
+    ],
+    "preferredSources": [
+      "cma",
+      "met"
+    ]
+  },
+  {
+    "query": "art nouveau glass vase",
+    "topics": [
+      "art",
+      "design"
+    ],
+    "preferredSources": [
+      "cma",
+      "vam"
+    ]
+  },
+  {
+    "query": "photograph daguerreotype portrait 1840",
+    "topics": [
+      "photograph"
+    ],
+    "preferredSources": [
+      "cma",
+      "loc",
+      "met"
+    ]
+  },
+  {
+    "query": "impressionist garden painting",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "cma",
+      "met"
+    ]
+  },
+  {
+    "query": "Victorian fashion dress 1850",
+    "topics": [
+      "design",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "vam",
+      "cma"
+    ]
+  },
+  {
+    "query": "art deco poster design",
+    "topics": [
+      "design",
+      "art"
+    ],
+    "preferredSources": [
+      "vam",
+      "cma"
+    ]
+  },
+  {
+    "query": "William Morris textile design",
+    "topics": [
+      "design",
+      "art"
+    ],
+    "preferredSources": [
+      "vam",
+      "commons"
+    ]
+  },
+  {
+    "query": "wedgwood pottery 18th century",
+    "topics": [
+      "design",
+      "artifact"
+    ],
+    "preferredSources": [
+      "vam",
+      "cma"
+    ]
+  },
+  {
+    "query": "early photography albumen print",
+    "topics": [
+      "photograph"
+    ],
+    "preferredSources": [
+      "vam",
+      "loc",
+      "commons"
+    ]
+  },
+  {
+    "query": "Victorian theatre costume",
+    "topics": [
+      "design",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "vam"
+    ]
+  },
+  {
+    "query": "medieval chasuble embroidery",
+    "topics": [
+      "medieval",
+      "design"
+    ],
+    "preferredSources": [
+      "vam",
+      "cma"
+    ]
+  },
+  {
+    "query": "south asian textile trade cloth",
+    "topics": [
+      "design",
+      "india"
+    ],
+    "preferredSources": [
+      "vam",
+      "cma"
+    ]
+  },
+  {
+    "query": "great exhibition 1851 souvenir",
+    "topics": [
+      "design",
+      "britain"
+    ],
+    "preferredSources": [
+      "vam",
+      "loc"
+    ]
+  },
+  {
+    "query": "handwritten recipe book manuscript",
+    "topics": [
+      "document",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "vam",
+      "loc",
+      "gallica"
+    ]
+  },
+  {
+    "query": "japanese lacquer box edo",
+    "topics": [
+      "artifact",
+      "japan"
+    ],
+    "preferredSources": [
+      "vam",
+      "cma"
+    ]
+  },
+  {
+    "query": "architecture drawing cathedral 19th century",
+    "topics": [
+      "design",
+      "document"
+    ],
+    "preferredSources": [
+      "vam",
+      "loc",
+      "harvard"
+    ]
+  },
+  {
+    "query": "porcelain figurine 18th century",
+    "topics": [
+      "artifact",
+      "design"
+    ],
+    "preferredSources": [
+      "vam",
+      "cma",
+      "rijksmuseum"
+    ]
+  },
+  {
+    "query": "photograph crimean war 1855",
+    "topics": [
+      "photograph",
+      "war"
+    ],
+    "preferredSources": [
+      "vam",
+      "loc",
+      "commons"
+    ]
+  },
+  {
+    "query": "world war i trench photograph",
+    "topics": [
+      "war",
+      "photograph"
+    ],
+    "preferredSources": [
+      "commons",
+      "loc",
+      "internetarchive"
+    ]
+  },
+  {
+    "query": "wright brothers first flight photograph",
+    "topics": [
+      "photograph",
+      "flight"
+    ],
+    "preferredSources": [
+      "commons",
+      "loc",
+      "nasa"
+    ]
+  },
+  {
+    "query": "titanic sinking photograph 1912",
+    "topics": [
+      "disasters",
+      "photograph"
+    ],
+    "preferredSources": [
+      "commons",
+      "loc"
+    ]
+  },
+  {
+    "query": "san francisco earthquake 1906 photograph",
+    "topics": [
+      "disasters",
+      "photograph"
+    ],
+    "preferredSources": [
+      "commons",
+      "loc"
+    ]
+  },
+  {
+    "query": "suffragette march photograph",
+    "topics": [
+      "civil-rights",
+      "photograph"
+    ],
+    "preferredSources": [
+      "commons",
+      "loc"
+    ]
+  },
+  {
+    "query": "medieval map world mappa mundi",
+    "topics": [
+      "map",
+      "medieval"
+    ],
+    "preferredSources": [
+      "commons",
+      "vam",
+      "loc"
+    ]
+  },
+  {
+    "query": "declaration of independence document scan",
+    "topics": [
+      "document",
+      "founding"
+    ],
+    "preferredSources": [
+      "commons",
+      "loc",
+      "nara"
+    ]
+  },
+  {
+    "query": "ancient pompeii ruins photograph",
+    "topics": [
+      "ancient",
+      "photograph"
+    ],
+    "preferredSources": [
+      "commons",
+      "cma"
+    ]
+  },
+  {
+    "query": "rosetta stone photograph",
+    "topics": [
+      "ancient",
+      "artifact"
+    ],
+    "preferredSources": [
+      "commons",
+      "cma",
+      "met"
+    ]
+  },
+  {
+    "query": "galileo manuscript page",
+    "topics": [
+      "document",
+      "science"
+    ],
+    "preferredSources": [
+      "commons",
+      "gallica"
+    ]
+  },
+  {
+    "query": "old paris photograph 1900 belle epoque",
+    "topics": [
+      "photograph",
+      "paris"
+    ],
+    "preferredSources": [
+      "commons",
+      "gallica"
+    ]
+  },
+  {
+    "query": "transcontinental railroad photograph 1869",
+    "topics": [
+      "photograph",
+      "technology"
+    ],
+    "preferredSources": [
+      "commons",
+      "loc"
+    ]
+  },
+  {
+    "query": "lindbergh flight photograph 1927",
+    "topics": [
+      "photograph",
+      "flight"
+    ],
+    "preferredSources": [
+      "commons",
+      "loc"
+    ]
+  },
+  {
+    "query": "chernobyl town photograph",
+    "topics": [
+      "photograph",
+      "disasters"
+    ],
+    "preferredSources": [
+      "commons"
+    ]
+  },
+  {
+    "query": "silk road caravanserai photograph",
+    "topics": [
+      "photograph",
+      "trade"
+    ],
+    "preferredSources": [
+      "commons",
+      "cma"
+    ]
+  },
+  {
+    "query": "early automobile photograph 1900s",
+    "topics": [
+      "photograph",
+      "technology"
+    ],
+    "preferredSources": [
+      "commons",
+      "loc"
+    ]
+  },
+  {
+    "query": "cold war civil defense film",
+    "topics": [
+      "cold-war",
+      "film"
+    ],
+    "preferredSources": [
+      "internetarchive",
+      "nara"
+    ]
+  },
+  {
+    "query": "atomic age nuclear test footage",
+    "topics": [
+      "cold-war",
+      "film"
+    ],
+    "preferredSources": [
+      "internetarchive",
+      "nara"
+    ]
+  },
+  {
+    "query": "1950s educational film suburbia",
+    "topics": [
+      "film",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "internetarchive",
+      "loc"
+    ]
+  },
+  {
+    "query": "world war ii newsreel footage",
+    "topics": [
+      "war",
+      "film"
+    ],
+    "preferredSources": [
+      "internetarchive",
+      "nara",
+      "loc"
+    ]
+  },
+  {
+    "query": "vintage radio broadcast 1940s",
+    "topics": [
+      "audio",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "internetarchive",
+      "loc"
+    ]
+  },
+  {
+    "query": "apollo mission coverage broadcast",
+    "topics": [
+      "space",
+      "audio"
+    ],
+    "preferredSources": [
+      "internetarchive",
+      "nasa"
+    ]
+  },
+  {
+    "query": "early animated cartoon 1930s",
+    "topics": [
+      "film",
+      "animation"
+    ],
+    "preferredSources": [
+      "internetarchive"
+    ]
+  },
+  {
+    "query": "wpa work projects film 1930s",
+    "topics": [
+      "film",
+      "depression-era"
+    ],
+    "preferredSources": [
+      "internetarchive",
+      "loc"
+    ]
+  },
+  {
+    "query": "space race propaganda film",
+    "topics": [
+      "space",
+      "cold-war"
+    ],
+    "preferredSources": [
+      "internetarchive",
+      "nasa"
+    ]
+  },
+  {
+    "query": "vintage travel promotional film",
+    "topics": [
+      "film",
+      "everyday-life"
+    ],
+    "preferredSources": [
+      "internetarchive"
+    ]
+  },
+  {
+    "query": "world war 1 propaganda film",
+    "topics": [
+      "war",
+      "film"
+    ],
+    "preferredSources": [
+      "internetarchive",
+      "gallica"
+    ]
+  },
+  {
+    "query": "industrial film factory 1940s",
+    "topics": [
+      "film",
+      "technology"
+    ],
+    "preferredSources": [
+      "internetarchive",
+      "loc"
+    ]
+  },
+  {
+    "query": "paris commune 1871 photograph",
+    "topics": [
+      "paris",
+      "civil-unrest"
+    ],
+    "preferredSources": [
+      "gallica",
+      "commons"
+    ]
+  },
+  {
+    "query": "french revolution engraving 1789",
+    "topics": [
+      "revolution",
+      "art"
+    ],
+    "preferredSources": [
+      "gallica",
+      "commons"
+    ]
+  },
+  {
+    "query": "medieval book of hours manuscript",
+    "topics": [
+      "medieval",
+      "manuscript"
+    ],
+    "preferredSources": [
+      "gallica",
+      "vam"
+    ]
+  },
+  {
+    "query": "belle epoque poster paris",
+    "topics": [
+      "art",
+      "paris"
+    ],
+    "preferredSources": [
+      "gallica",
+      "vam"
+    ]
+  },
+  {
+    "query": "world war 1 french trench newspaper",
+    "topics": [
+      "war",
+      "document"
+    ],
+    "preferredSources": [
+      "gallica",
+      "commons"
+    ]
+  },
+  {
+    "query": "exposition universelle 1889 paris",
+    "topics": [
+      "paris",
+      "technology"
+    ],
+    "preferredSources": [
+      "gallica",
+      "loc"
+    ]
+  },
+  {
+    "query": "napoleon campaign engraving",
+    "topics": [
+      "war",
+      "art"
+    ],
+    "preferredSources": [
+      "gallica",
+      "rijksmuseum"
+    ]
+  },
+  {
+    "query": "verne jules original illustration",
+    "topics": [
+      "art",
+      "literature"
+    ],
+    "preferredSources": [
+      "gallica",
+      "commons"
+    ]
+  },
+  {
+    "query": "medieval bestiary illuminated",
+    "topics": [
+      "medieval",
+      "manuscript"
+    ],
+    "preferredSources": [
+      "gallica",
+      "vam"
+    ]
+  },
+  {
+    "query": "haussmann paris map 1860",
+    "topics": [
+      "map",
+      "paris"
+    ],
+    "preferredSources": [
+      "gallica",
+      "loc"
+    ]
+  },
+  {
+    "query": "renaissance astronomical diagram",
+    "topics": [
+      "science",
+      "manuscript"
+    ],
+    "preferredSources": [
+      "gallica",
+      "commons"
+    ]
+  },
+  {
+    "query": "diderot encyclopedia plate engraving",
+    "topics": [
+      "science",
+      "art"
+    ],
+    "preferredSources": [
+      "gallica",
+      "harvard"
+    ]
+  },
+  {
+    "query": "rembrandt portrait etching",
+    "topics": [
+      "art",
+      "netherlands"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "met"
+    ]
+  },
+  {
+    "query": "vermeer domestic interior painting",
+    "topics": [
+      "art",
+      "netherlands"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "cma"
+    ]
+  },
+  {
+    "query": "dutch east indies ship model",
+    "topics": [
+      "artifact",
+      "maritime"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "vam"
+    ]
+  },
+  {
+    "query": "tulip mania illustration 17th century",
+    "topics": [
+      "art",
+      "netherlands"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "commons"
+    ]
+  },
+  {
+    "query": "dutch maritime map 17th century",
+    "topics": [
+      "map",
+      "maritime"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "gallica"
+    ]
+  },
+  {
+    "query": "delftware tile 17th century",
+    "topics": [
+      "artifact",
+      "netherlands"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "vam"
+    ]
+  },
+  {
+    "query": "anglo dutch wars naval battle print",
+    "topics": [
+      "war",
+      "maritime"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "gallica"
+    ]
+  },
+  {
+    "query": "voc dutch east india trade artifact",
+    "topics": [
+      "artifact",
+      "trade"
+    ],
+    "preferredSources": [
+      "rijksmuseum"
+    ]
+  },
+  {
+    "query": "dutch winter landscape painting",
+    "topics": [
+      "art",
+      "netherlands"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "cma"
+    ]
+  },
+  {
+    "query": "dutch golden age still life vanitas",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "met"
+    ]
+  },
+  {
+    "query": "polder windmill painting",
+    "topics": [
+      "art",
+      "netherlands"
+    ],
+    "preferredSources": [
+      "rijksmuseum"
+    ]
+  },
+  {
+    "query": "voc dutch east india map spice trade",
+    "topics": [
+      "map",
+      "trade"
+    ],
+    "preferredSources": [
+      "rijksmuseum",
+      "gallica"
+    ]
+  },
+  {
+    "query": "ancient near east cuneiform tablet",
+    "topics": [
+      "ancient",
+      "document"
+    ],
+    "preferredSources": [
+      "harvard",
+      "met"
+    ]
+  },
+  {
+    "query": "greek vase red figure",
+    "topics": [
+      "artifact",
+      "ancient"
+    ],
+    "preferredSources": [
+      "harvard",
+      "met"
+    ]
+  },
+  {
+    "query": "roman portrait bust marble",
+    "topics": [
+      "artifact",
+      "ancient"
+    ],
+    "preferredSources": [
+      "harvard",
+      "cma"
+    ]
+  },
+  {
+    "query": "bauhaus design drawing",
+    "topics": [
+      "design",
+      "art"
+    ],
+    "preferredSources": [
+      "harvard",
+      "vam"
+    ]
+  },
+  {
+    "query": "american civil war drawing sketch",
+    "topics": [
+      "war",
+      "art"
+    ],
+    "preferredSources": [
+      "harvard",
+      "loc"
+    ]
+  },
+  {
+    "query": "impressionist drawing degas",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "harvard",
+      "cma",
+      "met"
+    ]
+  },
+  {
+    "query": "mayan glyph artifact",
+    "topics": [
+      "artifact",
+      "americas"
+    ],
+    "preferredSources": [
+      "harvard",
+      "cma"
+    ]
+  },
+  {
+    "query": "chinese jade carving ancient",
+    "topics": [
+      "artifact",
+      "china"
+    ],
+    "preferredSources": [
+      "harvard",
+      "cma"
+    ]
+  },
+  {
+    "query": "european drawing renaissance study",
+    "topics": [
+      "art",
+      "document"
+    ],
+    "preferredSources": [
+      "harvard",
+      "vam"
+    ]
+  },
+  {
+    "query": "photograph bauhaus masters",
+    "topics": [
+      "photograph",
+      "design"
+    ],
+    "preferredSources": [
+      "harvard",
+      "vam"
+    ]
+  },
+  {
+    "query": "egyptian ushabti figure",
+    "topics": [
+      "artifact",
+      "ancient"
+    ],
+    "preferredSources": [
+      "harvard",
+      "met",
+      "cma"
+    ]
+  },
+  {
+    "query": "islamic calligraphy page",
+    "topics": [
+      "document",
+      "middle-east"
+    ],
+    "preferredSources": [
+      "harvard",
+      "cma",
+      "vam"
+    ]
+  },
+  {
+    "query": "plague treatment 17th century",
+    "topics": [
+      "medicine",
+      "history"
+    ],
+    "preferredSources": [
+      "wellcome"
+    ]
+  },
+  {
+    "query": "anatomy illustration historical",
+    "topics": [
+      "medicine",
+      "art"
+    ],
+    "preferredSources": [
+      "wellcome",
+      "harvard"
+    ]
+  },
+  {
+    "query": "vaccination history caricature",
+    "topics": [
+      "medicine",
+      "society"
+    ],
+    "preferredSources": [
+      "wellcome",
+      "loc"
+    ]
+  },
+  {
+    "query": "asylum patient records photograph",
+    "topics": [
+      "medicine",
+      "photograph"
+    ],
+    "preferredSources": [
+      "wellcome"
+    ]
+  },
+  {
+    "query": "apothecary jar pharmacy",
+    "topics": [
+      "medicine",
+      "artifact"
+    ],
+    "preferredSources": [
+      "wellcome",
+      "vam"
+    ]
+  },
+  {
+    "query": "midwifery manual 18th century",
+    "topics": [
+      "medicine",
+      "document"
+    ],
+    "preferredSources": [
+      "wellcome",
+      "gallica"
+    ]
+  },
+  {
+    "query": "cholera outbreak map london",
+    "topics": [
+      "medicine",
+      "map"
+    ],
+    "preferredSources": [
+      "wellcome",
+      "commons"
+    ]
+  },
+  {
+    "query": "medieval medical manuscript diagram",
+    "topics": [
+      "medicine",
+      "medieval"
+    ],
+    "preferredSources": [
+      "wellcome",
+      "gallica"
+    ]
+  },
+  {
+    "query": "x-ray early radiograph",
+    "topics": [
+      "medicine",
+      "science"
+    ],
+    "preferredSources": [
+      "wellcome",
+      "commons"
+    ]
+  },
+  {
+    "query": "sanitaria tuberculosis poster",
+    "topics": [
+      "medicine",
+      "society"
+    ],
+    "preferredSources": [
+      "wellcome"
+    ]
+  },
+  {
+    "query": "egyptian surgery papyrus reproduction",
+    "topics": [
+      "medicine",
+      "ancient"
+    ],
+    "preferredSources": [
+      "wellcome",
+      "harvard"
+    ]
+  },
+  {
+    "query": "quack medicine advertisement",
+    "topics": [
+      "medicine",
+      "society"
+    ],
+    "preferredSources": [
+      "wellcome",
+      "loc"
+    ]
+  },
+  {
+    "query": "greek vase attic red figure",
+    "topics": [
+      "ancient",
+      "artifact"
+    ],
+    "preferredSources": [
+      "getty",
+      "harvard"
+    ]
+  },
+  {
+    "query": "roman marble portrait bust",
+    "topics": [
+      "ancient",
+      "artifact"
+    ],
+    "preferredSources": [
+      "getty",
+      "cma"
+    ]
+  },
+  {
+    "query": "etruscan bronze mirror",
+    "topics": [
+      "ancient",
+      "artifact"
+    ],
+    "preferredSources": [
+      "getty"
+    ]
+  },
+  {
+    "query": "van gogh iris drawing",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "getty",
+      "cma"
+    ]
+  },
+  {
+    "query": "medieval illuminated initial",
+    "topics": [
+      "medieval",
+      "art"
+    ],
+    "preferredSources": [
+      "getty",
+      "gallica"
+    ]
+  },
+  {
+    "query": "19th century albumen photograph landscape",
+    "topics": [
+      "photograph"
+    ],
+    "preferredSources": [
+      "getty",
+      "vam"
+    ]
+  },
+  {
+    "query": "french drawing watteau study",
+    "topics": [
+      "art"
+    ],
+    "preferredSources": [
+      "getty",
+      "harvard"
+    ]
+  },
+  {
+    "query": "ancient glass vessel roman",
+    "topics": [
+      "ancient",
+      "artifact"
+    ],
+    "preferredSources": [
+      "getty",
+      "cma"
+    ]
+  },
+  {
+    "query": "baroque sculpture mythology",
+    "topics": [
+      "artifact",
+      "art"
+    ],
+    "preferredSources": [
+      "getty",
+      "vam"
+    ]
+  },
+  {
+    "query": "daguerreotype early portrait studio",
+    "topics": [
+      "photograph"
+    ],
+    "preferredSources": [
+      "getty",
+      "loc"
+    ]
+  },
+  {
+    "query": "lacquer japanese cabinet inlay",
+    "topics": [
+      "artifact",
+      "design"
+    ],
+    "preferredSources": [
+      "getty",
+      "vam"
+    ]
+  },
+  {
+    "query": "renaissance preparatory sketch",
+    "topics": [
+      "art",
+      "document"
+    ],
+    "preferredSources": [
+      "getty",
+      "harvard"
+    ]
+  }
+]

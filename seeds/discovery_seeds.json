@@ -1,0 +1,239 @@
+[
+  {
+    "title": "Dracorex hogwartsia",
+    "searchQueries": [
+      "Dracorex hogwartsia",
+      "Dracorex dinosaur skull"
+    ],
+    "preferredSources": [
+      "dpla",
+      "smithsonian",
+      "commons"
+    ],
+    "templateHint": "artifact-object",
+    "optionalInstitution": "Children's Museum of Indianapolis",
+    "optionalSeedUrl": "https://www.childrensmuseum.org/stories/meet-dracorex-hogwartsia"
+  },
+  {
+    "title": "SUE the T. rex",
+    "searchQueries": [
+      "SUE the T. rex Field Museum",
+      "SUE Tyrannosaurus rex fossil"
+    ],
+    "preferredSources": [
+      "dpla",
+      "smithsonian",
+      "commons"
+    ],
+    "templateHint": "artifact-object",
+    "optionalInstitution": "Field Museum",
+    "optionalSeedUrl": "https://www.fieldmuseum.org/page/visiting-sue-t-rex-what-know-you-go"
+  },
+  {
+    "title": "Apollo 11 Moon Landing",
+    "searchQueries": [
+      "Apollo 11 Activities",
+      "Apollo 11 Restored Moonwalk"
+    ],
+    "preferredSources": [
+      "nasa",
+      "internetarchive"
+    ],
+    "templateHint": "moving-image-source",
+    "optionalInstitution": "NASA",
+    "optionalSeedUrl": "https://images.nasa.gov/details/Apollo 11 Activities"
+  },
+  {
+    "title": "Earthrise",
+    "searchQueries": [
+      "AS08-14-2383",
+      "Apollo 8 Mission image Earth"
+    ],
+    "preferredSources": [
+      "nasa",
+      "commons"
+    ],
+    "templateHint": "historical-photograph",
+    "optionalInstitution": "NASA",
+    "optionalSeedUrl": "https://images.nasa.gov/details/as08-14-2383"
+  },
+  {
+    "title": "Pueblo / Ancestral Pueblo History",
+    "searchQueries": [
+      "Cliff Palace Mesa Verde",
+      "Ancestral Pueblo pottery"
+    ],
+    "preferredSources": [
+      "loc",
+      "smithsonian",
+      "dpla",
+      "cma",
+      "harvard"
+    ],
+    "templateHint": "artifact-object",
+    "optionalInstitution": "Library of Congress",
+    "optionalSeedUrl": "https://www.loc.gov/pictures/item/96513179/"
+  },
+  {
+    "title": "Cherokee Nation / Trail of Tears",
+    "searchQueries": [
+      "Indian Removal Act 1830",
+      "Indian Removal Act Primary Documents"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara",
+      "commons"
+    ],
+    "templateHint": "original-document",
+    "optionalInstitution": "Library of Congress",
+    "optionalSeedUrl": "https://guides.loc.gov/indian-removal-act"
+  },
+  {
+    "title": "Navajo Code Talkers",
+    "searchQueries": [
+      "Navajo Code Talkers",
+      "Navajo Code Talkers oral history"
+    ],
+    "preferredSources": [
+      "loc",
+      "nara",
+      "internetarchive"
+    ],
+    "templateHint": "audio-oral-history",
+    "optionalInstitution": "Library of Congress, Veterans History Project",
+    "optionalSeedUrl": "https://guides.loc.gov/navajo-code-talkers/profiles/alfred-newman"
+  },
+  {
+    "title": "Machu Picchu",
+    "searchQueries": [
+      "Machu Picchu Inca",
+      "Panorama of Machu Picchu"
+    ],
+    "preferredSources": [
+      "dpla",
+      "europeana",
+      "commons"
+    ],
+    "templateHint": "artifact-object",
+    "optionalInstitution": "The Metropolitan Museum of Art",
+    "optionalSeedUrl": "https://www.metmuseum.org/art/collection/search/519917"
+  },
+  {
+    "title": "Pompeii",
+    "searchQueries": [
+      "Pompeii archaeological site",
+      "Pompeii fresco"
+    ],
+    "preferredSources": [
+      "europeana",
+      "dpla",
+      "cma",
+      "commons",
+      "harvard"
+    ],
+    "templateHint": "artifact-object",
+    "optionalInstitution": "Parco Archeologico di Pompei",
+    "optionalSeedUrl": "https://pompeiisites.org/en/"
+  },
+  {
+    "title": "Rosetta Stone",
+    "searchQueries": [
+      "The Rosetta Stone British Museum London",
+      "Rosetta Stone key to Egyptian hieroglyphics"
+    ],
+    "preferredSources": [
+      "loc",
+      "europeana",
+      "commons",
+      "met"
+    ],
+    "templateHint": "artifact-object",
+    "optionalInstitution": "Library of Congress / British Museum",
+    "optionalSeedUrl": "https://www.britishmuseum.org/collection/egypt/explore-rosetta-stone"
+  },
+  {
+    "title": "Women of NASA / Hidden Figures",
+    "searchQueries": [
+      "Katherine Johnson At Her Desk",
+      "Katherine Johnson NASA",
+      "Dorothy Vaughan"
+    ],
+    "preferredSources": [
+      "nasa",
+      "commons",
+      "internetarchive"
+    ],
+    "templateHint": "historical-photograph",
+    "optionalInstitution": "NASA",
+    "optionalSeedUrl": "https://images.nasa.gov/details/LRC-1966-B701_P-06717"
+  },
+  {
+    "title": "Titanic Survivor Voices / Artifacts",
+    "searchQueries": [
+      "Titanic survivor interview",
+      "Titanic artifact recovered"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla",
+      "internetarchive",
+      "gallica",
+      "commons"
+    ],
+    "templateHint": "audio-oral-history",
+    "optionalInstitution": "Royal Museums Greenwich",
+    "optionalSeedUrl": "https://www.rmg.co.uk/collections/objects/rmgc-object-485436"
+  },
+  {
+    "title": "Saint George and the Dragon Medieval Illuminated Manuscript",
+    "searchQueries": [
+      "Saint George and the Dragon manuscript illumination"
+    ],
+    "preferredSources": [
+      "europeana",
+      "gallica",
+      "vam",
+      "cma"
+    ],
+    "templateHint": "original-document",
+    "optionalInstitution": "The J. Paul Getty Museum",
+    "optionalSeedUrl": "https://www.getty.edu/art/collection/object/105VJZ"
+  },
+  {
+    "title": "Cats / Household Life in Ancient Egypt",
+    "searchQueries": [
+      "ancient Egyptian cat bronze",
+      "Egyptian cat statue Bastet"
+    ],
+    "preferredSources": [
+      "dpla",
+      "europeana",
+      "cma",
+      "met",
+      "harvard",
+      "commons"
+    ],
+    "templateHint": "artifact-object",
+    "optionalInstitution": "The Metropolitan Museum of Art",
+    "optionalSeedUrl": "https://www.metmuseum.org/art/collection/search/243770"
+  },
+  {
+    "title": "Hokusai — The Great Wave",
+    "searchQueries": [
+      "Hokusai Great Wave off Kanagawa",
+      "Kanagawa oki nami ura"
+    ],
+    "preferredSources": [
+      "loc",
+      "dpla",
+      "europeana",
+      "met",
+      "cma",
+      "vam"
+    ],
+    "templateHint": "artwork-illustration",
+    "optionalInstitution": "The Metropolitan Museum of Art",
+    "optionalSeedUrl": "https://www.metmuseum.org/art/collection/search/45434"
+  }
+]

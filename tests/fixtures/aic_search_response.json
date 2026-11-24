@@ -1,0 +1,47 @@
+{
+  "config": {
+    "iiif_url": "https://www.artic.edu/iiif/2",
+    "website_url": "http://www.artic.edu"
+  },
+  "data": [
+    {
+      "id": 16568,
+      "title": "Water Lilies",
+      "image_id": "3c27b499-af56-f0d5-93b5-a7f2f1ad5813",
+      "artist_display": "Claude Monet\nFrench, 1840-1926",
+      "date_display": "1906",
+      "medium_display": "Oil on canvas",
+      "department_title": "Painting and Sculpture of Europe",
+      "place_of_origin": "France",
+      "artwork_type_title": "Painting",
+      "is_public_domain": true,
+      "api_link": "https://api.artic.edu/api/v1/artworks/16568"
+    },
+    {
+      "id": 6565,
+      "title": "American Gothic",
+      "image_id": "b272df73-a965-ac37-4172-be4e99483637",
+      "artist_display": "Grant Wood\nAmerican, 1891-1942",
+      "date_display": "1930",
+      "medium_display": "Oil on beaverboard",
+      "department_title": "Arts of the Americas",
+      "place_of_origin": "United States",
+      "artwork_type_title": "Painting",
+      "is_public_domain": false,
+      "api_link": "https://api.artic.edu/api/v1/artworks/6565"
+    },
+    {
+      "id": 999001,
+      "title": "Catalog entry with no digitized image",
+      "image_id": null,
+      "artist_display": "Unknown",
+      "date_display": "n.d.",
+      "medium_display": "Unknown",
+      "department_title": "Prints and Drawings",
+      "place_of_origin": "Unknown",
+      "artwork_type_title": "Print",
+      "is_public_domain": true,
+      "api_link": "https://api.artic.edu/api/v1/artworks/999001"
+    }
+  ]
+}

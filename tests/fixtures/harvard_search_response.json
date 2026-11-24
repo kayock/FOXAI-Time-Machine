@@ -1,0 +1,55 @@
+{
+  "_provenance": "Hand-built response modeled directly on the documented Harvard Art Museums /object endpoint contract (GET /object?q=...&apikey=...&size=...&page=...&hasimage=1 -> records[]). No key was configured in the development sandbox, so this fixture is docs-modeled, NOT live-captured.",
+  "info": {
+    "totalrecordsperquery": 4,
+    "totalrecords": 2,
+    "pages": 1,
+    "page": 1,
+    "next": null
+  },
+  "records": [
+    {
+      "objectid": 304467,
+      "title": "Self-Portrait Dedicated to Paul Gauguin",
+      "dated": "1888",
+      "datebegin": 1888,
+      "dateend": 1888,
+      "classification": "Paintings",
+      "culture": "French",
+      "period": "19th century",
+      "medium": "oil on canvas",
+      "department": "Paintings",
+      "placeoforigin": "Arles, France",
+      "imagepermissionlevel": 0,
+      "primaryimageurl": "https://ids.lib.harvard.edu/ids/iiif/25280660/full/!512,512/0/default.jpg",
+      "url": "https://www.harvardartmuseums.org/collections/object/304467",
+      "people": [
+        {"name": "Vincent van Gogh", "personid": 23967, "role": "Artist"}
+      ]
+    },
+    {
+      "objectid": 199001,
+      "title": "Restricted-image record",
+      "dated": "1935",
+      "classification": "Photographs",
+      "culture": "American",
+      "imagepermissionlevel": 1,
+      "primaryimageurl": "https://ids.lib.harvard.edu/ids/iiif/restricted/full/!512,512/0/default.jpg",
+      "url": "https://www.harvardartmuseums.org/collections/object/199001",
+      "people": []
+    },
+    {
+      "objectid": 205500,
+      "title": "Cuneiform tablet, administrative record",
+      "dated": "c. 2050 BCE",
+      "classification": "Artifacts",
+      "culture": "Sumerian",
+      "medium": "clay",
+      "department": "Ancient Near East",
+      "imagepermissionlevel": 0,
+      "primaryimageurl": "https://ids.lib.harvard.edu/ids/iiif/14955821/full/!512,512/0/default.jpg",
+      "url": "https://www.harvardartmuseums.org/collections/object/205500",
+      "people": []
+    }
+  ]
+}

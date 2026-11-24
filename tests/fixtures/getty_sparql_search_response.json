@@ -1,0 +1,80 @@
+{
+  "head" : {
+    "vars" : [ "obj", "label" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "obj" : {
+        "type" : "uri",
+        "value" : "https://data.getty.edu/museum/collection/object/91494d01-5eed-44f5-b1b3-224ed263eb0e"
+      },
+      "label" : {
+        "type" : "literal",
+        "value" : "Irises (2011.7.29)"
+      }
+    }, {
+      "obj" : {
+        "type" : "uri",
+        "value" : "https://data.getty.edu/museum/collection/object/aa59db58-8a31-4922-b3cd-1a310b7f925b"
+      },
+      "label" : {
+        "type" : "literal",
+        "value" : "Irises (2021.28.716)"
+      }
+    }, {
+      "obj" : {
+        "type" : "uri",
+        "value" : "https://data.getty.edu/museum/collection/object/c88b3df0-de91-4f5b-a9ef-7b2b9a6d8abb"
+      },
+      "label" : {
+        "type" : "literal",
+        "value" : "Irises (90.PA.20)"
+      }
+    }, {
+      "obj" : {
+        "type" : "uri",
+        "value" : "https://data.getty.edu/museum/collection/object/5e378d2c-bfd4-4f0f-af5e-65299e374d7c"
+      },
+      "label" : {
+        "type" : "literal",
+        "value" : "Irises, N.Y.C. (2011.9.42.2)"
+      }
+    }, {
+      "obj" : {
+        "type" : "uri",
+        "value" : "https://data.getty.edu/museum/collection/object/9d35e637-86df-4bc8-b3df-b37825eb8c1d"
+      },
+      "label" : {
+        "type" : "literal",
+        "value" : "Untitled (Irises) (2025.130.8)"
+      }
+    }, {
+      "obj" : {
+        "type" : "uri",
+        "value" : "https://data.getty.edu/museum/collection/object/4567d2ee-a1bb-4d91-9d47-197f196e6ee2"
+      },
+      "label" : {
+        "type" : "literal",
+        "value" : "[Garden Scene with Irises and Cacti] (84.XM.238.82)"
+      }
+    }, {
+      "obj" : {
+        "type" : "uri",
+        "value" : "https://data.getty.edu/museum/collection/object/abe4a102-722d-49b0-8a6d-0c62f375be8e"
+      },
+      "label" : {
+        "type" : "literal",
+        "value" : "[Irises] (84.XB.875.9.5)"
+      }
+    }, {
+      "obj" : {
+        "type" : "uri",
+        "value" : "https://data.getty.edu/museum/collection/object/24a945dd-e0cd-4014-895f-404d40e8ecb4"
+      },
+      "label" : {
+        "type" : "literal",
+        "value" : "[Two Irises]"
+      }
+    } ]
+  }
+}

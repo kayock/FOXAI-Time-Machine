@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cherokee-nation-worldline",
+    "title": "Cherokee Nation",
+    "description": "From a sophisticated pre-contact society through removal and into the present-day Cherokee Nation.",
+    "cardIds": ["cherokee-nation-history", "indian-removal-gazette-1830", "trail-of-tears"]
+  },
+  {
+    "id": "reaching-the-moon",
+    "title": "Reaching the Moon",
+    "description": "From the first powered flight to the first steps on another world.",
+    "cardIds": ["wright-flight-1903", "earthrise-1968", "apollo11-1969"]
+  },
+  {
+    "id": "indigenous-americas",
+    "title": "Indigenous Nations of the Americas",
+    "description": "A sampling of Indigenous societies, achievements, and history across the Americas.",
+    "cardIds": ["pueblo-territory", "machu-picchu", "cherokee-nation-history", "trail-of-tears"]
+  }
+]

@@ -1,0 +1,270 @@
+{
+  "benchmark": "FOXAI Time Machine v2.2.0 sustained live discovery",
+  "mode": "LIVE (real archives; blocked/key-less archives contribute nothing)",
+  "batches": 4,
+  "limit_per_batch": 24,
+  "restart_after_batch": 2,
+  "totals": {
+    "records_delivered": 96,
+    "unique_records": 96,
+    "duplicate_records_detected": 0,
+    "temporary_failures_and_recoveries": 8,
+    "total_seconds": 112.9,
+    "dynamic_topics_discovered_final": 22,
+    "pagination_depth_by_source": {
+      "aic": 10,
+      "cma": 6,
+      "commons": 2,
+      "gallica": 0,
+      "getty": 0,
+      "internetarchive": 2,
+      "loc": 2,
+      "met": 22,
+      "nasa": 1,
+      "vam": 4,
+      "wellcome": 1
+    },
+    "rss_memory_mb_start": 28.7,
+    "rss_memory_mb_end": 47.8,
+    "sqlite_db_bytes_end": 200704
+  },
+  "latency": {
+    "avg": 28.22,
+    "median": 29.3,
+    "worst": 30.02
+  },
+  "diversity": {
+    "regions_observed": [
+      "unknown"
+    ],
+    "eras_observed": [
+      "1000s",
+      "100s",
+      "1100s",
+      "1200s",
+      "1300s",
+      "1400s",
+      "1500s",
+      "1600s",
+      "1700s",
+      "1800s",
+      "1900s",
+      "2000s",
+      "300s",
+      "600s",
+      "unknown"
+    ],
+    "media_kinds_observed": [
+      "artifact",
+      "artwork",
+      "audio",
+      "document",
+      "map",
+      "moving_image",
+      "photograph"
+    ],
+    "sources_contributing": [
+      "aic",
+      "cma",
+      "commons",
+      "internetarchive",
+      "loc",
+      "met",
+      "nasa",
+      "vam",
+      "wellcome"
+    ]
+  },
+  "concurrency": {
+    "avg_tasks_per_batch": 22,
+    "total_pages_consumed": 50
+  },
+  "per_batch": [
+    {
+      "batch": 1,
+      "delivered": 24,
+      "new_unique": 24,
+      "cumulative_unique": 24,
+      "duplicates_detected": 0,
+      "latency_seconds": 30.02,
+      "sources": [
+        "aic",
+        "cma",
+        "met",
+        "vam"
+      ],
+      "regions": [
+        "unknown"
+      ],
+      "eras": [
+        "1100s",
+        "1200s",
+        "1400s",
+        "1500s",
+        "1600s",
+        "1700s",
+        "1800s",
+        "1900s"
+      ],
+      "media_kinds": [
+        "artifact",
+        "artwork",
+        "document",
+        "photograph"
+      ],
+      "concurrent_tasks": 23,
+      "fetch_seconds": 30.01,
+      "pages_consumed": 11,
+      "exhausted_marks": 2,
+      "temporary_errors": 3,
+      "rate_limited": 0,
+      "deadline_misses": 3,
+      "deferred_skipped": 0,
+      "candidates_queued": 33,
+      "candidates_replayed": 0,
+      "topics_so_far": 6,
+      "db_bytes": 4096
+    },
+    {
+      "batch": 2,
+      "delivered": 24,
+      "new_unique": 24,
+      "cumulative_unique": 48,
+      "duplicates_detected": 0,
+      "latency_seconds": 30.02,
+      "sources": [
+        "aic",
+        "cma",
+        "met",
+        "vam"
+      ],
+      "regions": [
+        "unknown"
+      ],
+      "eras": [
+        "1600s",
+        "1900s",
+        "2000s",
+        "unknown"
+      ],
+      "media_kinds": [
+        "artifact",
+        "artwork",
+        "document",
+        "photograph"
+      ],
+      "concurrent_tasks": 21,
+      "fetch_seconds": 30.0,
+      "pages_consumed": 14,
+      "exhausted_marks": 1,
+      "temporary_errors": 1,
+      "rate_limited": 0,
+      "deadline_misses": 1,
+      "deferred_skipped": 0,
+      "candidates_queued": 83,
+      "candidates_replayed": 33,
+      "topics_so_far": 11,
+      "db_bytes": 4096
+    },
+    {
+      "batch": 3,
+      "delivered": 24,
+      "new_unique": 24,
+      "cumulative_unique": 72,
+      "duplicates_detected": 0,
+      "latency_seconds": 28.58,
+      "sources": [
+        "aic",
+        "cma",
+        "internetarchive",
+        "loc",
+        "met",
+        "wellcome"
+      ],
+      "regions": [
+        "unknown"
+      ],
+      "eras": [
+        "1000s",
+        "100s",
+        "1600s",
+        "1800s",
+        "1900s",
+        "2000s",
+        "300s",
+        "600s"
+      ],
+      "media_kinds": [
+        "artifact",
+        "artwork",
+        "document",
+        "moving_image",
+        "photograph"
+      ],
+      "concurrent_tasks": 23,
+      "fetch_seconds": 28.55,
+      "pages_consumed": 15,
+      "exhausted_marks": 0,
+      "temporary_errors": 0,
+      "rate_limited": 0,
+      "deadline_misses": 0,
+      "deferred_skipped": 0,
+      "candidates_queued": 123,
+      "candidates_replayed": 83,
+      "topics_so_far": 17,
+      "db_bytes": 200704
+    },
+    {
+      "batch": 4,
+      "delivered": 24,
+      "new_unique": 24,
+      "cumulative_unique": 96,
+      "duplicates_detected": 0,
+      "latency_seconds": 24.25,
+      "sources": [
+        "aic",
+        "cma",
+        "commons",
+        "internetarchive",
+        "loc",
+        "met",
+        "nasa",
+        "vam"
+      ],
+      "regions": [
+        "unknown"
+      ],
+      "eras": [
+        "1000s",
+        "100s",
+        "1200s",
+        "1300s",
+        "1400s",
+        "1500s",
+        "1600s",
+        "1700s"
+      ],
+      "media_kinds": [
+        "artifact",
+        "artwork",
+        "audio",
+        "document",
+        "map",
+        "moving_image",
+        "photograph"
+      ],
+      "concurrent_tasks": 21,
+      "fetch_seconds": 24.22,
+      "pages_consumed": 10,
+      "exhausted_marks": 3,
+      "temporary_errors": 0,
+      "rate_limited": 0,
+      "deadline_misses": 0,
+      "deferred_skipped": 1,
+      "candidates_queued": 121,
+      "candidates_replayed": 96,
+      "topics_so_far": 22,
+      "db_bytes": 200704
+    }
+  ]
+}

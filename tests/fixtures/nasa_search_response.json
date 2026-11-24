@@ -1,0 +1,66 @@
+{
+  "_fixture_note": "Trimmed, real response captured from https://images-api.nasa.gov/search?q=apollo%2011&media_type=image&page_size=3 for hermetic testing. Not live-fetched during tests.",
+  "collection": {
+    "version": "1.1",
+    "href": "http://images-api.nasa.gov/search?q=apollo",
+    "items": [
+      {
+        "href": "https://images-assets.nasa.gov/image/PIA24439/collection.json",
+        "data": [
+          {
+            "center": "JPL",
+            "date_created": "2021-04-21T00:00:00Z",
+            "description": "Buzz Aldrin took this iconic image of a bootprint on the Moon during the Apollo 11 moonwalk on July 20, 1969.  https://photojournal.jpl.nasa.gov/catalog/PIA24439",
+            "description_508": "Buzz Aldrin took this iconic image of a bootprint on the Moon during the Apollo 11 moonwalk on July 20, 1969.",
+            "keywords": ["Apollo", "Moon"],
+            "media_type": "image",
+            "nasa_id": "PIA24439",
+            "secondary_creator": "NASA",
+            "title": "Apollo Footprint"
+          }
+        ],
+        "links": [
+          {"href": "https://images-assets.nasa.gov/image/PIA24439/PIA24439~medium.jpg", "rel": "alternate", "render": "image", "width": 1280, "size": 327000, "height": 1253},
+          {"href": "https://images-assets.nasa.gov/image/PIA24439/PIA24439~thumb.jpg", "rel": "preview", "render": "image", "width": 640, "size": 112000, "height": 626},
+          {"href": "https://images-assets.nasa.gov/image/PIA24439/PIA24439~orig.jpg", "rel": "canonical", "render": "image", "height": 3226, "width": 3294, "size": 1610000}
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/video/Official Celebration of Apollo 17 50th Anniversary/collection.json",
+        "data": [
+          {
+            "center": "HQ",
+            "date_created": "2022-12-15T00:00:00Z",
+            "description": "NASA honors the crew of Apollo 17; Harrison Schmitt, Eugene Cernan, and Ronald Evans. Commemorating the 50th anniversary of NASA's final mission of the Apollo Program.",
+            "keywords": ["NASA", "Apollo 17", "Harrison Schmitt", "Eugene Cernan", "Ronald Evans", "50th Anniversary of NASA's Final Mission of the Apollo Program"],
+            "media_type": "video",
+            "nasa_id": "Official Celebration of Apollo 17 50th Anniversary",
+            "title": "Official Celebration of Apollo 17 50th Anniversary"
+          }
+        ],
+        "links": [
+          {"href": "https://images-assets.nasa.gov/video/Official Celebration of Apollo 17 50th Anniversary/Official Celebration of Apollo 17 50th Anniversary~thumb.jpg", "rel": "preview", "render": "image", "width": 300, "size": 7600, "height": 168},
+          {"href": "https://images-assets.nasa.gov/video/Official Celebration of Apollo 17 50th Anniversary/Official Celebration of Apollo 17 50th Anniversary.srt", "rel": "captions"}
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/s69-35505/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "date_created": "1969-06-03T00:00:00Z",
+            "description": "S69-35505 (June 1969) --- The prime crews of the Apollo 10 lunar orbit mission and the Apollo 11 lunar landing mission are photographed during an Apollo 10 postflight de-briefing session.",
+            "keywords": ["Apollo", "Apollo 10"],
+            "media_type": "image",
+            "nasa_id": "s69-35505",
+            "title": "APOLLO X - CREW"
+          }
+        ],
+        "links": [
+          {"href": "https://images-assets.nasa.gov/image/s69-35505/s69-35505~thumb.jpg", "rel": "preview", "render": "image", "width": 640, "size": 38000, "height": 423},
+          {"href": "https://images-assets.nasa.gov/image/s69-35505/s69-35505~orig.jpg", "rel": "canonical", "render": "image", "height": 1967, "width": 2973, "size": 772000}
+        ]
+      }
+    ]
+  }
+}

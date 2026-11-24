@@ -1,0 +1,27 @@
+{
+  "_provenance": "Hand-built response modeled directly on the documented Internet Archive advancedsearch.php contract (q, fl[], rows, page, output=json -> response.docs[]). archive.org rate-limited the shared sandbox IP during development, so this fixture is docs-modeled, NOT live-captured.",
+  "response": {
+    "numFound": 2,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "CivilDefenseFilm1950_identifier",
+        "title": "Duck and Cover (1950)",
+        "year": "1950",
+        "description": "A civil defense instructional film about what to do in the event of a nuclear attack.",
+        "mediatype": "movies",
+        "collection": ["prelinger"],
+        "licenseurl": "https://creativecommons.org/licenses/publicdomain/",
+        "subject": ["civil defense", "cold war", "nuclear"]
+      },
+      {
+        "identifier": "OldRadioBroadcast1943",
+        "title": "World War II radio news broadcast, 1943-06-06",
+        "year": "1943",
+        "description": "Vintage radio news broadcast recording.",
+        "mediatype": "audio",
+        "collection": ["oldtimeradio"]
+      }
+    ]
+  }
+}

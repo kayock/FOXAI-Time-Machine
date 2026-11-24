@@ -1,0 +1,63 @@
+{
+  "_fixture_note": "Hand-built but spec-conformant IIIF Presentation API 3.0 manifest, modeled directly on iiif.io's own published examples (cookbook recipes + presentation 3.0 spec). Not a live fetch.",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example-archive.org/manifests/saint-george-dragon/manifest.json",
+  "type": "Manifest",
+  "label": { "en": ["Saint George and the Dragon: a medieval illuminated manuscript leaf"] },
+  "summary": { "en": ["An illuminated leaf depicting Saint George slaying the dragon, from a 15th-century book of hours."] },
+  "metadata": [
+    { "label": { "en": ["Date"] }, "value": { "en": ["c. 1450"] } },
+    { "label": { "en": ["Origin"] }, "value": { "en": ["France"] } }
+  ],
+  "requiredStatement": {
+    "label": { "en": ["Attribution"] },
+    "value": { "en": ["Courtesy of the Example Archive, Manuscripts Division"] }
+  },
+  "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "provider": [
+    {
+      "id": "https://example-archive.org/about",
+      "type": "Agent",
+      "label": { "en": ["Example Archive"] }
+    }
+  ],
+  "homepage": [
+    { "id": "https://example-archive.org/items/saint-george-dragon", "type": "Text", "label": { "en": ["Item page at Example Archive"] }, "format": "text/html" }
+  ],
+  "thumbnail": [
+    { "id": "https://example-archive.org/iiif/saint-george-dragon/full/400,/0/default.jpg", "type": "Image", "format": "image/jpeg" }
+  ],
+  "items": [
+    {
+      "id": "https://example-archive.org/manifests/saint-george-dragon/canvas/1",
+      "type": "Canvas",
+      "label": { "en": ["Leaf 1 recto"] },
+      "height": 3000,
+      "width": 2200,
+      "items": [
+        {
+          "id": "https://example-archive.org/manifests/saint-george-dragon/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example-archive.org/manifests/saint-george-dragon/canvas/1/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://example-archive.org/iiif/saint-george-dragon/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 2200,
+                "service": [
+                  { "id": "https://example-archive.org/iiif/saint-george-dragon", "type": "ImageService3", "profile": "level2" }
+                ]
+              },
+              "target": "https://example-archive.org/manifests/saint-george-dragon/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

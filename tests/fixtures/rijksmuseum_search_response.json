@@ -1,0 +1,63 @@
+{
+  "_provenance": "Hand-built response modeled directly on the documented Rijksmuseum collection API contract (GET /api/en/collection?key=...&q=...&p=...&ps=...&imgonly=true -> artObjects[]). No key was configured in the development sandbox, so this fixture is docs-modeled, NOT live-captured.",
+  "count": 2,
+  "elapsedCount": 12,
+  "artObjects": [
+    {
+      "links": {
+        "self": "https://www.rijksmuseum.nl/api/en/collection/SK-C-5",
+        "web": "https://www.rijksmuseum.nl/en/collection/SK-C-5"
+      },
+      "id": "en-SK-C-5",
+      "objectNumber": "SK-C-5",
+      "title": "The Night Watch",
+      "principalOrFirstMaker": "Rembrandt van Rijn",
+      "longTitle": "The Night Watch, Rembrandt van Rijn, 1642",
+      "plaqueDescriptionEnglish": "Rembrandt's largest and most famous painting, made for the city militia.",
+      "webImage": {
+        "guid": "0f4f1f04-8f4e-4f4a-9b1c-0f4f1f048f4e",
+        "offsetPercentageX": 0,
+        "offsetPercentageY": 1,
+        "width": 2500,
+        "height": 2037,
+        "url": "https://lh3.googleusercontent.com/rijksmuseum/SK-C-5/full/843,/0/default.jpg"
+      },
+      "headerImage": {
+        "guid": "0f4f1f04-8f4e-4f4a-9b1c-0f4f1f048f4e",
+        "width": 1770,
+        "url": "https://lh3.googleusercontent.com/rijksmuseum/SK-C-5/header.jpg"
+      },
+      "classification": {
+        "iconClassIdentifier": [],
+        " Motifs": ["militia"],
+        "motifs": ["militia company"]
+      },
+      "dating": {
+        "presentingDate": "1642",
+        "sortingPeriod": 10,
+        "year": 1642,
+        "yearEarly": 1642,
+        "yearLate": 1642
+      },
+      "productionPlaces": ["Amsterdam"]
+    },
+    {
+      "links": {
+        "web": "https://www.rijksmuseum.nl/en/collection/NG-2011-80"
+      },
+      "id": "en-NG-2011-80",
+      "objectNumber": "NG-2011-80",
+      "title": "Delftware plate",
+      "principalOrFirstMaker": "Anonymous",
+      "longTitle": "Delftware plate, Anonymous, c. 1700",
+      "plaqueDescriptionEnglish": "A tin-glazed earthenware plate made in Delft.",
+      "webImage": {
+        "url": "https://lh3.googleusercontent.com/rijksmuseum/NG-2011-80/full/843,/0/default.jpg"
+      },
+      "dating": {
+        "presentingDate": "c. 1700"
+      },
+      "productionPlaces": ["Delft"]
+    }
+  ]
+}

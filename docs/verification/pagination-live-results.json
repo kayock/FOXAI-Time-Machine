@@ -1,0 +1,153 @@
+[
+  {
+    "source": "nasa",
+    "deepPagination": true,
+    "seconds_p1": 0.0,
+    "seconds_p2": 0.0,
+    "n1": 6,
+    "n2": 6,
+    "distinct_ids": 12,
+    "overlap": 0,
+    "status": "VERIFIED LIVE \u2014 page 2 fully distinct"
+  },
+  {
+    "source": "loc",
+    "deepPagination": true,
+    "seconds_p1": 0.0,
+    "seconds_p2": 0.0,
+    "n1": 0,
+    "n2": 0,
+    "distinct_ids": 0,
+    "overlap": 0,
+    "status": "EMPTY PAGE 1"
+  },
+  {
+    "source": "met",
+    "deepPagination": true,
+    "seconds_p1": 0.0,
+    "seconds_p2": 0.0,
+    "n1": 6,
+    "n2": 6,
+    "distinct_ids": 12,
+    "overlap": 0,
+    "status": "VERIFIED LIVE \u2014 page 2 fully distinct"
+  },
+  {
+    "source": "aic",
+    "deepPagination": true,
+    "seconds_p1": 0.2,
+    "seconds_p2": 0.0,
+    "n1": 0,
+    "n2": 0,
+    "distinct_ids": 0,
+    "overlap": 0,
+    "status": "EMPTY PAGE 1"
+  },
+  {
+    "source": "cma",
+    "deepPagination": true,
+    "seconds_p1": 0.0,
+    "seconds_p2": 0.0,
+    "n1": 6,
+    "n2": 5,
+    "distinct_ids": 11,
+    "overlap": 0,
+    "status": "VERIFIED LIVE \u2014 page 2 fully distinct"
+  },
+  {
+    "source": "vam",
+    "deepPagination": true,
+    "seconds_p1": 1.0,
+    "seconds_p2": 1.0,
+    "n1": 6,
+    "n2": 6,
+    "distinct_ids": 12,
+    "overlap": 0,
+    "status": "VERIFIED LIVE \u2014 page 2 fully distinct"
+  },
+  {
+    "source": "smithsonian",
+    "deepPagination": false,
+    "status": "SKIPPED (no key)"
+  },
+  {
+    "source": "dpla",
+    "deepPagination": true,
+    "status": "SKIPPED (no key)"
+  },
+  {
+    "source": "europeana",
+    "deepPagination": true,
+    "status": "SKIPPED (no key)"
+  },
+  {
+    "source": "nara",
+    "deepPagination": false,
+    "status": "SKIPPED (no key)"
+  },
+  {
+    "source": "internetarchive",
+    "deepPagination": true,
+    "seconds_p1": 0.3,
+    "seconds_p2": 0.3,
+    "n1": 0,
+    "n2": 0,
+    "distinct_ids": 0,
+    "overlap": 0,
+    "status": "EMPTY PAGE 1"
+  },
+  {
+    "source": "gallica",
+    "deepPagination": true,
+    "seconds_p1": 0.0,
+    "seconds_p2": 0.0,
+    "n1": 0,
+    "n2": 0,
+    "distinct_ids": 0,
+    "overlap": 0,
+    "status": "EMPTY PAGE 1"
+  },
+  {
+    "source": "commons",
+    "deepPagination": true,
+    "seconds_p1": 0.1,
+    "seconds_p2": 0.1,
+    "n1": 0,
+    "n2": 0,
+    "distinct_ids": 0,
+    "overlap": 0,
+    "status": "EMPTY PAGE 1"
+  },
+  {
+    "source": "rijksmuseum",
+    "deepPagination": true,
+    "status": "SKIPPED (no key)"
+  },
+  {
+    "source": "harvard",
+    "deepPagination": true,
+    "status": "SKIPPED (no key)"
+  },
+  {
+    "source": "wellcome",
+    "deepPagination": true,
+    "seconds_p1": 0.0,
+    "seconds_p2": 0.0,
+    "n1": 5,
+    "n2": 2,
+    "distinct_ids": 7,
+    "overlap": 0,
+    "status": "VERIFIED LIVE \u2014 page 2 fully distinct"
+  },
+  {
+    "source": "getty",
+    "deepPagination": true,
+    "seconds_p1": 0.0,
+    "seconds_p2": 0.0,
+    "n1": 5,
+    "n2": 0,
+    "distinct_ids": 5,
+    "overlap": 0,
+    "status": "page 2 empty (archive thinner than 2 pages for this query)"
+  }
+]

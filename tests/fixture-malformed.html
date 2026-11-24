@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FOXAI Time Machine — malformed-data fixture (test only)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+
+<div id="app">
+
+  <!-- ===== HEADER / NAV ===== -->
+  <header class="masthead">
+    <div class="masthead__bar">
+      <div class="masthead__brand">
+        <span class="masthead__mark" aria-hidden="true">
+          <svg viewBox="0 0 40 40" width="26" height="26">
+            <circle cx="20" cy="20" r="17" fill="none" stroke="currentColor" stroke-width="2"/>
+            <line x1="20" y1="20" x2="20" y2="8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            <line x1="20" y1="20" x2="28" y2="24" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </span>
+        <span class="masthead__title">FOXAI <em>Time&nbsp;Machine</em></span>
+      </div>
+      <nav class="masthead__nav" aria-label="Primary">
+        <button class="navlink" data-view="feed" aria-current="page">TimeFeed</button>
+        <button class="navlink" data-view="gazette">Gazette</button>
+        <button class="navlink" data-view="explore">Explore</button>
+        <button class="navlink" data-view="worldlines">Worldlines</button>
+        <button class="navlink" data-view="saved">Saved</button>
+      </nav>
+      <div class="masthead__search">
+        <input id="searchInput" type="search" placeholder="Search people, places, eras…" aria-label="Search Time Machine">
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== VIEWS ===== -->
+  <main id="viewFeed" class="view">
+    <div class="feed-toolbar">
+      <div class="feed-toolbar__hint" id="feedHint">Scroll to fall down a rabbit hole.</div>
+      <div class="feed-toolbar__actions">
+        <button id="shuffleBtn" class="pillbtn">🔀 Surprise me</button>
+      </div>
+    </div>
+    <div class="timeline-rail" aria-hidden="true"></div>
+    <div id="feedList" class="feed"></div>
+    <p class="feed-end">You've reached the end of what's been added so far — more history is easy to add.</p>
+  </main>
+
+  <main id="viewGazette" class="view" hidden>
+    <div class="gazette-intro">
+      <h1>The Time Machine Gazette</h1>
+      <p>Historical events, told the way a newspaper might tell them. Some are genuine archival front pages; others are clearly labeled Time Machine reconstructions.</p>
+    </div>
+    <div id="gazetteList" class="gazette-list"></div>
+  </main>
+
+  <main id="viewExplore" class="view" hidden>
+    <div class="explore-intro">
+      <h1>Explore</h1>
+      <p>Follow a topic, a person, or a place, and the TimeFeed will start surfacing more like it.</p>
+    </div>
+    <section class="explore-section">
+      <h2>Topics</h2>
+      <div id="exploreTopics" class="chip-grid"></div>
+    </section>
+    <section class="explore-section">
+      <h2>People</h2>
+      <div id="explorePeople" class="chip-grid"></div>
+    </section>
+    <section class="explore-section">
+      <h2>Places</h2>
+      <div id="explorePlaces" class="chip-grid"></div>
+    </section>
+  </main>
+
+  <main id="viewWorldlines" class="view" hidden>
+    <div class="explore-intro">
+      <h1>Worldlines</h1>
+      <p>Curated chronological paths through the Time Machine. Follow a thread from start to finish.</p>
+    </div>
+    <div id="worldlineList" class="worldline-list"></div>
+    <div id="worldlineDetail" class="worldline-detail" hidden></div>
+  </main>
+
+  <main id="viewSaved" class="view" hidden>
+    <div class="explore-intro">
+      <h1>Your Library</h1>
+      <p>Everything you've favorited, saved, followed, or recently viewed — kept locally on this device.</p>
+    </div>
+
+    <section class="saved-section">
+      <h2>Favorites</h2>
+      <div id="savedFavorites" class="feed feed--compact"></div>
+      <p class="empty-note" id="favoritesEmpty">Nothing favorited yet — tap ♥ on a card you love.</p>
+    </section>
+
+    <section class="saved-section">
+      <h2>Saved for Later</h2>
+      <div id="savedItems" class="feed feed--compact"></div>
+      <p class="empty-note" id="savedEmpty">Nothing saved yet — tap 🔖 to keep a card for later.</p>
+    </section>
+
+    <section class="saved-section">
+      <h2>Following</h2>
+      <div id="followingList" class="chip-grid"></div>
+      <p class="empty-note" id="followingEmpty">You're not following any topics, people, or places yet.</p>
+    </section>
+
+    <section class="saved-section">
+      <h2>Recently Viewed</h2>
+      <div id="recentList" class="feed feed--compact"></div>
+      <p class="empty-note" id="recentEmpty">Cards you open will show up here.</p>
+    </section>
+
+    <button id="resetDataBtn" class="linklike-danger">Reset my Time Machine data on this device</button>
+  </main>
+
+</div>
+
+<!-- ===== LEARN MORE PANEL ===== -->
+<div id="learnMoreOverlay" class="lm-overlay" hidden>
+  <div class="lm-panel" role="dialog" aria-modal="true" aria-labelledby="lmTitle">
+    <button class="lm-close" id="lmClose" aria-label="Close">✕</button>
+    <div id="lmContent" class="lm-content"></div>
+  </div>
+</div>
+
+<template id="cardTemplate"></template>
+
+<script src="../js/lib.js"></script>
+<script>
+  // Deliberately mixed valid + malformed data, to prove the real app
+  // (same lib.js + app.js as production) renders the good cards and
+  // silently skips the bad ones instead of crashing the whole feed.
+  window.TIME_MACHINE_CARDS = [
+    { id: "valid-1", title: "Valid Card One", hook: "A perfectly fine hook.", type: "photograph", sourceUrl: "https://example.org/one" },
+    { id: "missing-fields" /* no title, hook, type, or sourceUrl */ },
+    { title: "No id at all", hook: "h", type: "document", sourceUrl: "https://example.org" },
+    null,
+    { id: "valid-1", title: "Duplicate id of valid-1", hook: "h", type: "document", sourceUrl: "https://example.org" },
+    { id: "valid-2", title: "Valid Card Two", hook: "Another fine hook.", type: "map", sourceUrl: "https://example.org/two" }
+  ];
+  window.TIME_MACHINE_WORLDLINES = [];
+</script>
+<script src="../js/app.js"></script>
+</body>
+</html>

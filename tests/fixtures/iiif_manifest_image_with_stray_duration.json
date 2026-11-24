@@ -1,0 +1,33 @@
+{
+  "_fixture_note": "Regression fixture for the IIIF media-detection bug: this canvas body is unambiguously an Image (type + format), but the canvas itself also carries a 'duration' field (some manifests attach this for unrelated reasons, e.g. a scanning session length). Before the fix, seeing 'duration' anywhere caused this to be misclassified as video.",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example-archive.org/manifests/image-with-stray-duration/manifest.json",
+  "type": "Manifest",
+  "label": { "en": ["Photograph With An Unrelated Duration Field"] },
+  "items": [
+    {
+      "id": "https://example-archive.org/manifests/image-with-stray-duration/canvas/1",
+      "type": "Canvas",
+      "duration": 12.0,
+      "items": [
+        {
+          "id": "https://example-archive.org/manifests/image-with-stray-duration/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example-archive.org/manifests/image-with-stray-duration/canvas/1/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://example-archive.org/media/photo.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://example-archive.org/manifests/image-with-stray-duration/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

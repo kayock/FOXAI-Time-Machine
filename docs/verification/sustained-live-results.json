@@ -1,0 +1,178 @@
+{
+  "batches": [
+    {
+      "batch": 1,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 24,
+      "seconds": 17.6,
+      "sources": [
+        "met",
+        "vam",
+        "wellcome"
+      ],
+      "pages_consumed": 6,
+      "exhausted_marks": 11,
+      "discovered_topics_used": 0
+    },
+    {
+      "batch": 2,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 48,
+      "seconds": 22.4,
+      "sources": [
+        "cma",
+        "met"
+      ],
+      "pages_consumed": 6,
+      "exhausted_marks": 7,
+      "discovered_topics_used": 5
+    },
+    {
+      "batch": 3,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 72,
+      "seconds": 14.1,
+      "sources": [
+        "cma",
+        "met",
+        "vam"
+      ],
+      "pages_consumed": 5,
+      "exhausted_marks": 9,
+      "discovered_topics_used": 5
+    },
+    {
+      "batch": 4,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 96,
+      "seconds": 15.1,
+      "sources": [
+        "met",
+        "wellcome"
+      ],
+      "pages_consumed": 5,
+      "exhausted_marks": 8,
+      "discovered_topics_used": 5
+    },
+    {
+      "batch": 5,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 120,
+      "seconds": 19.4,
+      "sources": [
+        "met"
+      ],
+      "pages_consumed": 5,
+      "exhausted_marks": 13,
+      "discovered_topics_used": 5
+    },
+    {
+      "batch": 6,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 144,
+      "seconds": 15.1,
+      "sources": [
+        "met",
+        "vam"
+      ],
+      "pages_consumed": 5,
+      "exhausted_marks": 10,
+      "discovered_topics_used": 5
+    },
+    {
+      "batch": 7,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 168,
+      "seconds": 14.4,
+      "sources": [
+        "met",
+        "nasa",
+        "vam",
+        "wellcome"
+      ],
+      "pages_consumed": 6,
+      "exhausted_marks": 8,
+      "discovered_topics_used": 5
+    },
+    {
+      "batch": 8,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 192,
+      "seconds": 13.8,
+      "sources": [
+        "met",
+        "vam"
+      ],
+      "pages_consumed": 5,
+      "exhausted_marks": 9,
+      "discovered_topics_used": 5
+    },
+    {
+      "batch": 9,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 216,
+      "seconds": 17.6,
+      "sources": [
+        "met",
+        "vam"
+      ],
+      "pages_consumed": 5,
+      "exhausted_marks": 14,
+      "discovered_topics_used": 5
+    },
+    {
+      "batch": 10,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 240,
+      "seconds": 9.1,
+      "sources": [
+        "cma",
+        "met",
+        "vam"
+      ],
+      "pages_consumed": 5,
+      "exhausted_marks": 3,
+      "discovered_topics_used": 5
+    },
+    {
+      "batch": 11,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 264,
+      "seconds": 23.3,
+      "sources": [
+        "cma",
+        "met"
+      ],
+      "pages_consumed": 7,
+      "exhausted_marks": 8,
+      "discovered_topics_used": 5
+    },
+    {
+      "batch": 12,
+      "new": 24,
+      "delivered": 24,
+      "cumulative": 288,
+      "seconds": 15.7,
+      "sources": [
+        "met",
+        "vam"
+      ],
+      "pages_consumed": 5,
+      "exhausted_marks": 9,
+      "discovered_topics_used": 5
+    }
+  ],
+  "total_unique": 288,
+  "total_seconds": 197.5
+}

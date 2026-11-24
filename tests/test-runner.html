@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>FOXAI Time Machine — Tests</title>
+<style>
+  body{ font-family: -apple-system, sans-serif; background:#14151d; color:#f3ead9; padding: 30px; }
+  h1{ font-size: 1.3rem; }
+  #integration-status{ font-family: monospace; margin-top: 14px; }
+</style>
+</head>
+<body>
+  <h1>FOXAI Time Machine — test suite</h1>
+  <p>Meaningful coverage, not a test-count exercise: content validity, graceful failure on malformed cards, favorites/save logic, search, and a real boot check of <code>index.html</code>.</p>
+  <div id="results">Running…</div>
+
+  <script src="mini-test.js"></script>
+  <script src="../js/lib.js?v=timestream1"></script>
+  <script src="../js/data.js?v=timestream1"></script>
+  <script src="tests.js?v=timestream1"></script>
+</body>
+</html>
